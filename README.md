@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabiltoby" alt="nabiltoby" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nabiltoby" target="blank"><img src="https://img.shields.io/twitter/follow/@nabiltoby?logo=twitter&style=for-the-badge" alt="@nabiltoby" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nabiltoby_" target="blank"><img src="https://img.shields.io/twitter/follow/@nabiltoby?logo=twitter&style=for-the-badge" alt="@nabiltoby_" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nabiltoby](https://github.com/nabiltoby)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nabiltoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nabiltoby" height="30" width="40" /></a>
+<a href="https://twitter.com/@nabiltoby_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nabiltoby_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-siddiq-bayu-seto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-siddiq-bayu-seto" height="30" width="40" /></a>
 <a href="https://instagram.com/@siddiqbayu23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@siddiqbayu23" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mr.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.n7927" height="30" width="40" /></a>
