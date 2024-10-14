@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nabil Toby Abiyyu</h1>
-<h3 align="center">Data Scientist From Indonesia</h3>
+<h3 align="center">Data Scientist and Front End Dev From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiqbayu23&label=Profile%20views&color=0e75b6&style=flat" alt="siddiqbayu23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiqbayu23&label=Profile%20views&color=0e75b6&style=flat" alt="nabiltoby" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddiqbayu23" alt="siddiqbayu23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabiltoby" alt="nabiltoby" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@siddiqbay" target="blank"><img src="https://img.shields.io/twitter/follow/@siddiqbay?logo=twitter&style=for-the-badge" alt="@siddiqbay" /></a> </p>
-
-- 🔭 I’m currently working on [*Javascript Project*](https://tracle.netlify.app/)
-
-- 🌱 I’m currently learning ***on Skilvul #Tech4Impact and Dian Nuswantoro University***
-
-- 👯 I’m looking to collaborate on [tracle project](https://tracle.netlify.app/)
+<p align="left"> <a href="https://twitter.com/@siddiqbay" target="blank"><img src="https://img.shields.io/twitter/follow/@nabiltoby?logo=twitter&style=for-the-badge" alt="@nabiltoby" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SiddiqBayu23](https://github.com/SiddiqBayu23)
 
@@ -19,7 +13,7 @@
 
 - 💬 Ask me about *react,and fire base*
 
-- 📫 How to reach me *fikriramadhan998@gmail.com*
+- 📫 How to reach me *nabiltoby02@gmail.com*
 
 - 📄 Know about my experiences [https://tpa1webportofolio.netlify.app](https://tpa1webportofolio.netlify.app)
 
