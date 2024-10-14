@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nabil Toby Abiyyu</h1>
 <h3 align="center">Data Scientist and Front End Dev From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiqbayu23&label=Profile%20views&color=0e75b6&style=flat" alt="nabiltoby" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiltoby&label=Profile%20views&color=0e75b6&style=flat" alt="nabiltoby" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabiltoby" alt="nabiltoby" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nabiltoby_" target="blank"><img src="https://img.shields.io/twitter/follow/@nabiltoby?logo=twitter&style=for-the-badge" alt="@nabiltoby_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nabiltoby_" target="blank"><img src="https://img.shields.io/twitter/follow/@nabiltoby_?logo=twitter&style=for-the-badge" alt="@nabiltoby_" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nabiltoby](https://github.com/nabiltoby)
 
