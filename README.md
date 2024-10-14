@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@siddiqbay" target="blank"><img src="https://img.shields.io/twitter/follow/@nabiltoby?logo=twitter&style=for-the-badge" alt="@nabiltoby" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SiddiqBayu23](https://github.com/SiddiqBayu23)
+- 👨‍💻 All of my projects are available at [https://github.com/nabiltoby](https://github.com/nabiltoby)
 
 - 📝 I regularly write articles on [https://tpa1webportofolio.netlify.app](https://tpa1webportofolio.netlify.app)
 
